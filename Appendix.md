@@ -18,6 +18,7 @@ Subject Generation:
 |w/o|22.92|4.82|2.82|1.76|62.14|6.15|
 
 Recommendation:
+
 |Joint Modeling|Recall@10|NDCG@10|
 |:--:|:--:|:--:|
 |w/ |0.1748|0.0566|
