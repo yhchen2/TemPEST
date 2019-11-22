@@ -40,5 +40,5 @@ We also visualize the effects of different input templates as shown in Table bel
 
  ![](https://i.imgur.com/87g9O5k.jpg)
  
-===
+## 
 The source code will be released in the near future.
