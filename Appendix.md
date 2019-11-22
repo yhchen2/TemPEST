@@ -1,5 +1,8 @@
-# TemPEST
-Supplementary material of TemPEST: Soft TEMplate Based Personalized EDM Subject Generation Through Collaborative Summarization.
+TemPEST
+===
+
+The supplementary material of AAAI 2020 paper "TemPEST: Soft TEMplate Based Personalized EDM Subject Generation Through Collaborative Summarization".
+
 
 ## Data Distribution
 Figure below shows the distributions of click-through number frequencies on *KKday* dataset. We can observe that it is long-tailed. This poses a great challenge to the recommender model, as it needs to be powerful enough to deal with both the head users/items (sparse) and trail user/items (active).
@@ -36,3 +39,6 @@ Table below shows another case study of the personalized subject generation task
 We also visualize the effects of different input templates as shown in Table below. We mark the output words that repeat the words in template bold. We observe that with the bi-directional selective mechanism, the generated subjects alter based on the template it is conditioned on. The output not only copies the words from templates but also learns the relative locations. Besides, even if the template occurs some undesired location names, the generated subjects are still able to replace them with the ones that appear in the given article. 
 
  ![](https://i.imgur.com/87g9O5k.jpg)
+ 
+===
+The source code will be released in the near future.
